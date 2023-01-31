@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675193809 source:c:\users\hp\onedrive\desktop\opeating system\producer_consumer_problem\main.c
+	<pthread.h>
+	<semaphore.h>
+	<stdio.h>
+	<stdlib.h>
+
